@@ -9,4 +9,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: go1
+  owner: user:alokmaurya1
