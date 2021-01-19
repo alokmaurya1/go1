@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: go1
+  description: go1
+  annotations: 
+    github.com/project-slug: alokmaurya1/go1
+    backstage.io/github-actions-id: alokmaurya1/go1
+spec:
+  type: service
+  lifecycle: experimental
+  owner: go1
